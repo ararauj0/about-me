@@ -6,11 +6,11 @@
 
 <!-- Contatos -->
 <div align="center">    
-  <a href="https://github.com/arochaa" alt="github" target="_blank">
+  <a href="https://github.com/ararauj0" alt="github" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-540a00?&style=flat-square&logo=GitHub&logoColor=white">
   </a>
   
-  <a href="https://www.linkedin.com/in/arochaa/" alt="linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/ararauj0/" alt="linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-540a00?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
   
@@ -52,8 +52,8 @@
 ![AWS](https://img.shields.io/badge/AWS-007054?style=for-the-badge&logo=amazon-aws&logoColor=61DAFB)
 
 <div align="center">
-  <a href="https://github.com/arochaa/">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=arochaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arochaa&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/ararauj0/">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ararauj0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ararauj0&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
