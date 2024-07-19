@@ -2,7 +2,7 @@
 <img src="https://github.com/tassiotfc/tassiotfc/blob/main/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
 <h1 align="center"> Hi there 👋, Nice to meet you here.</h1>
-<h3 align="center"> JavaScript Developer, Graduated in Computer Science and Post Graduated in Database Management. Specialist in Mirth Connect with a lot of knowledge in Fhir and HL7. </h3>
+<h3 align="center"> NodeJS Developer, Graduated in Computer Science and Post Graduated in Database Management. Specialist in Mirth Connect with a lot of knowledge in Fhir and HL7. </h3>
 
 <!-- Contatos -->
 <div align="center">    
@@ -17,7 +17,7 @@
   <a href="https://wa.me/5521991576928" alt="WhatsApp" target="_blank">
   <img src="https://img.shields.io/badge/-WhatsApp-540a00?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5584981430120"/></a>
   
-  <a href="mailto:arocha.dev@outlook.com" alt="gmail" target="_blank">
+  <a href="mailto:araraujo@outlook.com.br" alt="gmail" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-540a00?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:tassiofernandescosta@gmail.com"/>
   </a>
 </div>
